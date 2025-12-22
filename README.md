@@ -5,7 +5,7 @@
 ###
 
 # 💫 About Me:
-Hi, I'm Abhishek — a Computer Science student with a growing passion for data, problem-solving, and technology. I love exploring how data can drive decisions, build better systems, and open the door to smarter solutions.<br><br>📊 Interested in: Data Analytics, Python, SQL, Excel, Data Visualization.<br><br>🧠 Expanding into: Machine Learning and artificial intelligence.<br><br>🚀 Always learning, creating, and improving.
+Hi, I'm Abhishek — a Computer Science student with a growing passion for data, problem-solving, and technology. I love exploring how data can drive decisions, build better systems, and open the door to smarter solutions.<br>📊 Interested in: Data Analytics, Python, SQL, Excel, Data Visualization.<br>🧠 Expanding into: Machine Learning and artificial intelligence.<br>🚀 Always learning, creating, and improving.
 
 
 ## 🌐 Socials:
