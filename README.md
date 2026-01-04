@@ -17,3 +17,13 @@ Hi, I'm Abhishek — a Computer Science student with a growing passion for data,
 # GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=abhishekkk-gupta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkk-gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=abhishekkk-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkk-gupta" /> 
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+</picture>
