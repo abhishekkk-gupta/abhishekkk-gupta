@@ -1,57 +1,24 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abhishek%20Gupta&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20in%20the%20Making&descSize=18&descAlignY=55&textBg=false" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abhishek%20Gupta&fontSize=48&fontColor=fff&fontAlignY=35&desc=Data%20Analyst%20|%20Python%20•%20SQL%20•%20Power%20BI&descSize=18&descAlignY=55" width="100%"/>
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=abhishekkk-gupta&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
-
 </div>
 
 ---
 
-<!-- Hacker Cat GIF -->
-<div align="center">
-  <img height="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" />
-</div>
+## 👋 About Me
+I’m a 3rd-year Computer Science student focused on **Data Analytics**.  
+I enjoy working with real-world datasets, building models, and extracting meaningful insights that support decision-making.
+
+- 📊 Interested in Data Analysis & Visualization.  
+- 🐍 Working with Python, SQL, and Power BI. 
+- 🚀 Currently building data-driven projects.
 
 ---
 
-## 🧠 About Me
-
-```js
-const abhishek = {
-  degree:     "B.Tech in CSE — 3rd year",
-  focus:      "Data Analytics",
-  languages:  ["Python", "SQL"],
-  libraries:  ["Pandas", "Numpy", "Matplotlib"],
-  tools:      ["Excel", "Power BI", "MongoDB", "Git"],
-  open_to:    ["internships", "data roles", "collaborations"],
-};
-```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/abhishek-gupta2005" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/abhilytics" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://medium.com/@abhilytics" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="mailto:guptaabhi0520@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
 <div align="center">
 
@@ -113,9 +80,6 @@ const abhishek = {
 </div>
 
 ---
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -142,15 +106,22 @@ const abhishek = {
 </picture>
 
 ---
+## 🌐 Socials
 
-<!-- Footer Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+  <a href="https://linkedin.com/in/abhishek-gupta2005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/abhilytics" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://medium.com/@abhilytics" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:guptaabhi0520@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <sub>ehh its whatever man...</sub>
-</div>
