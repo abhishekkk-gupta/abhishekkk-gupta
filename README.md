@@ -1,29 +1,159 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif"  />
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abhishek%20Gupta&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20in%20the%20Making&descSize=18&descAlignY=55&textBg=false" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Data+Analytics+%7C+Python+%7C+SQL;Turning+raw+data+into+real+decisions;Open+to+internships+%26+data+roles" alt="Typing SVG" />
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=abhishekkk-gupta&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
+
 </div>
 
-###
+---
 
-# About Me:
-Hi, I'm Abhishek, a Computer Science student with a growing passion for data, problem-solving, and technology. I love exploring how data can drive decisions, build better systems, and open the door to smarter solutions.<br> - Interested in: Data Analytics, Python, SQL, Excel, Data Visualization.<br> - Expanding into: Machine Learning and artificial intelligence.<br> - Always learning, creating, and improving.
+<!-- Hacker Cat GIF -->
+<div align="center">
+  <img height="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" />
+</div>
 
+---
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-gupta2005) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhilytics) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhilytics) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptaabhi0520@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Salt-Music1264)
+## 🧠 About Me
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+```js
+const abhishek = {
+  degree:     "B.Tech in CSE — 3rd year",
+  focus:      "Data Analytics",
+  languages:  ["Python", "SQL"],
+  libraries:  ["Pandas", "Numpy", "Matplotlib"],
+  tools:      ["Excel", "Power BI", "MongoDB", "Git"],
+  open_to:    ["internships", "data roles", "collaborations"],
+};
+```
 
-# GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=abhishekkk-gupta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkk-gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=abhishekkk-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkk-gupta" /> 
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/abhishek-gupta2005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/abhilytics" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://medium.com/@abhilytics" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:guptaabhi0520@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/>
+    <br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/>
+    <br>SQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+    <br>Pandas
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
+    <br>NumPy
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/>
+    <br>Matplotlib
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
+    <br>Jupyter
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB"/>
+    <br>MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" alt="SQLite"/>
+    <br>SQLite
+  </td>
+  <td align="center" width="96">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="48" alt="Power BI"/>
+    <br>Power BI
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/>
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+    <br>GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva"/>
+    <br>Canva
+  </td>
+</tr>
+</table>
+
+</div>
+
+---
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekkk-gupta&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=abhishekkk-gupta&theme=dark&hide_border=true&cache_seconds=86400" height="180em" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekkk-gupta&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10" height="180em" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkk-gupta&theme=react-dark&hide_border=true&radius=10" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🕹️ Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <sub>ehh its whatever man...</sub>
+</div>
