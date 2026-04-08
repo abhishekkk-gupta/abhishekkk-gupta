@@ -3,9 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abhishek%20Gupta&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20in%20the%20Making&descSize=18&descAlignY=55&textBg=false" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Data+Analytics+%7C+Python+%7C+SQL;Turning+raw+data+into+real+decisions;Open+to+internships+%26+data+roles" alt="Typing SVG" />
-
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=abhishekkk-gupta&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
 
