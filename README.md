@@ -2,22 +2,19 @@
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abhishek%20Gupta&fontSize=48&fontColor=fff&fontAlignY=35&desc=Data%20Analyst%20|%20Python%20•%20SQL%20•%20Power%20BI&descSize=18&descAlignY=55" width="100%"/>
-
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=abhishekkk-gupta&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
-
 </div>
 
 ---
 
 ## 👋 About Me
-
 I'm a 3rd-year Computer Science student focused on **Data Analytics**.  
 I enjoy working with real-world datasets, building models, and extracting meaningful insights that support decision-making.
 
-- 📊 Interested in Data Analysis & Visualization
-- 🐍 Working with Python, SQL, and Power BI
-- 🚀 Currently building data-driven projects
+- 📊 Interested in Data Analysis & Visualization.  
+- 🐍 Working with Python, SQL, and Power BI. 
+- 🚀 Currently building data-driven projects.
 
 ---
 
@@ -83,16 +80,15 @@ I enjoy working with real-world datasets, building models, and extracting meanin
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkk-gupta&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekkk-gupta&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=abhishekkk-gupta&theme=dark&hide_border=true" height="180em" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkk-gupta&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10" height="180em" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekkk-gupta&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10" height="180em" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -110,7 +106,6 @@ I enjoy working with real-world datasets, building models, and extracting meanin
 </picture>
 
 ---
-
 ## 🌐 Socials
 
 <div align="center">
