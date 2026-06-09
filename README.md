@@ -84,29 +84,31 @@ I enjoy working with real-world datasets, building models, and extracting meanin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekkk-gupta&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekkk-gupta&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=abhishekkk-gupta&theme=dark&hide_border=true" height="180em" alt="GitHub Streak"/>
-</div><br>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekkk-gupta&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10" height="180em" alt="Top Languages"/>
-</div><br>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkk-gupta&theme=react-dark&hide_border=true&radius=10" width="95%" alt="Activity Graph"/>
-</div><br>
+</div>
+
+<br>
 
 ---
 
-## 🕹️ Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
----
 ## 🌐 Socials
 
 <div align="center">
