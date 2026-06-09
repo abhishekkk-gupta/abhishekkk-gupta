@@ -77,7 +77,7 @@ I enjoy working with real-world datasets, building models, and extracting meanin
 </tr>
 </table>
 
-</div>
+</div><br>
 
 ---
 
