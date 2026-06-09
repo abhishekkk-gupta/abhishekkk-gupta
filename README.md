@@ -84,7 +84,7 @@ I enjoy working with real-world datasets, building models, and extracting meanin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekkk-gupta&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekkk-gupta&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/><br>
   <img src="https://streak-stats.demolab.com/?user=abhishekkk-gupta&theme=dark&hide_border=true" height="180em" alt="GitHub Streak"/>
 </div><br>
 
