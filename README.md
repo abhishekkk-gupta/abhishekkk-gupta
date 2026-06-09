@@ -78,7 +78,9 @@ I enjoy working with real-world datasets, building models, and extracting meanin
 </table>
 
 </div>
+
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
