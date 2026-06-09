@@ -33,6 +33,10 @@ I enjoy working with real-world datasets, building models, and extracting meanin
     <br>SQL
   </td>
   <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"/>
+    <br>PostgreSQL
+  </td>
+  <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
     <br>Pandas
   </td>
@@ -44,12 +48,12 @@ I enjoy working with real-world datasets, building models, and extracting meanin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/>
     <br>Matplotlib
   </td>
+</tr>
+<tr>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
     <br>Jupyter
   </td>
-</tr>
-<tr>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB"/>
     <br>MongoDB
@@ -70,15 +74,10 @@ I enjoy working with real-world datasets, building models, and extracting meanin
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
     <br>GitHub
   </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva"/>
-    <br>Canva
-  </td>
 </tr>
 </table>
 
 </div>
-
 ---
 ## 📊 GitHub Stats
 
