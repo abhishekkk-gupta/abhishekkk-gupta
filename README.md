@@ -9,7 +9,7 @@
 ---
 
 ## 👋 About Me
-I'm a 3rd-year Computer Science student focused on **Data Analytics**.  
+I'm a final year Computer Science student focused on **Data Analytics**.  
 I enjoy working with real-world datasets, building models, and extracting meaningful insights that support decision-making.
 
 - 📊 Interested in Data Analysis & Visualization.  
